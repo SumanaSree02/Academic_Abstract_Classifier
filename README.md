@@ -1,6 +1,3 @@
-Sure! Here’s a **ready-to-copy full README.md content** for your project, formatted and structured for GitHub:
-
-```markdown
 # arXiv Paper Classifier
 **AI-Powered Research Paper Categorization Platform**
 
@@ -8,8 +5,6 @@ Sure! Here’s a **ready-to-copy full README.md content** for your project, form
 arXiv Paper Classifier is a full-stack web application that automatically classifies research papers into academic domains using machine learning. Users submit a paper’s title and abstract, and the system predicts the most relevant research category with confidence scores.
 
 The project integrates modern frontend design, secure authentication, admin management, and a CatBoost-based machine learning model into a single end-to-end system.
-
----
 
 ## Key Features
 
@@ -34,16 +29,12 @@ The project integrates modern frontend design, secure authentication, admin mana
 - Monitor user activity and classifications
 - Delete users securely (admin-only access)
 
----
-
 ## Supported Research Domains
 - AI and Machine Learning
 - Physics
 - Mathematics
 - Biology and Health
 - Chemistry and Materials
-
----
 
 ## Technology Stack
 
@@ -67,7 +58,6 @@ The project integrates modern frontend design, secure authentication, admin mana
 ### Database
 - SQLite
 
----
 
 ## Project Structure
 ```
@@ -135,6 +125,5 @@ python app.py
 
 This project is released for educational purposes only.
 
-```
 
 
